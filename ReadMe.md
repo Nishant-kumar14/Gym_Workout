@@ -8,7 +8,7 @@ I have dataset which shows a Analyzing gym members' workout habits and performan
 
 ## Dashboard 🖼️
 
-![Screenshot 2025-01-12 203451](https://github.com/user-attachments/assets/31c05818-dd79-4aa4-9cd8-a2665fb3ffa0)
+![Screenshot 2025-01-12 203451](https://github.com/user-attachments/assets/b95cc1f8-b2d3-4344-bb6b-649aba80b156)
 
 # Observations👀
 
